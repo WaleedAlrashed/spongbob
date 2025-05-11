@@ -1,0 +1,12 @@
+black
+gTTS
+openai
+SpeechRecognition
+pyaudio
+pydub
+pyngrok
+gevent
+twilio
+flask
+flask_sock
+whisper
